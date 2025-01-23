@@ -35,3 +35,6 @@
 [![Cloudflare Badge](https://img.shields.io/badge/cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)](https://www.cloudflare.com/)
 [![Linux Badge](https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=black)](https://wikipedia.org/wiki/Linux)
 
+---
+
+![](https://komarev.com/ghpvc/?username=DJ13423&color=orange)
