@@ -1,9 +1,10 @@
+![Metrics](https://gist.githubusercontent.com/DJ13423/40a608cd8bb01c87b3403d3c3fd01059/raw/github-metrics.svg)
+
 ## Hi there 👋
 
-## 🌐 Website
-[danieljb.com](https://danieljb.com)
+[🌐 My Website](https://danieljb.com)
 
-## 💼 Experience
+## 💻 Skills
 
 ### Languages
 [![TypeScript Badge](https://img.shields.io/badge/typescript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
